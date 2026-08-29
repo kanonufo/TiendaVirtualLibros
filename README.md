@@ -12,6 +12,10 @@ Proyecto de Programación II (UPTC). Una aplicación de escritorio en Java para 
 
 ![Prototipo de la interfaz](images/prototipo.png)
 
+## Guía para el equipo
+
+Toda la explicación del proyecto (cómo funciona, qué hace cada paquete, división del trabajo y cómo usar Git) está en: [docs/guia-proyecto.md](docs/guia-proyecto.md)
+
 ## Estructura del código
 
 ```
