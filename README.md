@@ -32,3 +32,5 @@ src/co/uptc/edu/
 ## Integrantes
 
 - Juan Pablo Barrero (@kanonufo)
+- Liz Rojas
+- Alexander Manrique
