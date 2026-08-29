@@ -1,0 +1,17 @@
+# Archivos compilados
+bin/
+*.class
+
+# Configuración de Eclipse (personal, no se versiona)
+.settings/
+
+# Datos en tiempo de ejecución (no se versionan)
+data/*
+!data/.gitkeep
+
+# Archivos temporales del sistema
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
