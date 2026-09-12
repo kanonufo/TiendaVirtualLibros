@@ -267,7 +267,7 @@ Cada uno trabaja **solo en sus archivos**. Así no nos pisamos y el Git fluye si
 |---|---|---|
 | **Juan Pablo** | `persistencia/` completo, `util/` completo, `negocio/` completo | La lógica de la aplicación, las clases del modelo, los cálculos y todo lo que tiene que ver con guardar/leer archivos. Es el corazón del sistema: todo el mundo llama a sus clases |
 | **Liz** | `gui/`: VentanaCatalogo, VentanaBuscarLibro, VentanaCarrito, VentanaRegistro | Las pantallas del flujo de compra: ver libros, buscar y armar el carrito |
-| **Alexander** | `gui/`: VentanaLogin, VentanaFinalizarCompra, VentanaRecibo, VentanaHistorial, VentanaMiCuenta, VentanaGestionLibros, y `principal/` | El inicio y el cierre de la compra, más las pantallas del administrador |
+| **Camilo** | `gui/`: VentanaLogin, VentanaFinalizarCompra, VentanaRecibo, VentanaHistorial, VentanaMiCuenta, VentanaGestionLibros, y `principal/` | El inicio y el cierre de la compra, más las pantallas del administrador |
 
 **Regla de convivencia:** si necesitan una clase o método que no existe todavía (por ejemplo, Liz necesita que CarritoCompras tenga cierto método), lo piden en el grupo y yo lo agrego al negocio. Nadie modifica clases de otro sin avisar.
 
